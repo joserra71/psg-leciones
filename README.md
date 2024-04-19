@@ -1,14 +1,8 @@
-## PSG02
-*italicas*
-**Negritas**
-> Show me the code
-1. lista ordenada
-2. lista ordenada 2
-- Primer codigo
-- Segundo codigo
-  
- 'Codigo'
-
-[Mi pagina](https://intelligram.tech)
-
-! [Olmeca]("C:\Users\Joserra\OneDrive\Imágenes\Álbum de cámara\2006\04\Olmeca.jpg")
+### SESION 02
+## .gitingnore y Markdown
+En esta sesion se utiliza markdown y se modifico el archivo **.gitignaore** para que no se suba el archivo **clave.txt**
+> Como partes de la sesion 02
+*Se lista el contenido del directorio actual:*
+1. .gitignore
+2. Claves.txt
+3. README.md
